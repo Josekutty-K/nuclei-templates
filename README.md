@@ -24,5 +24,5 @@ Nuclei is a fast, customizable vulnerability scanner based on simple YAML-based 
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/nuclei-templates.git
+   git clone https://github.com/Josekutty-K/nuclei-templates.git
    cd nuclei-templates
